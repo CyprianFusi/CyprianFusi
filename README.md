@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyprianFusi
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Feature Engineering and AI
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 👀 I’m a Data Scientist, Machine Learning engineer and AI Engineer
+- 🌱 I hold 2 master degrees in Electrical Engineering and Data Science and AI
+- 💞️ I've started my own business Binati AInalytics (https://binati-ai.com/)
 - 📫 How to reach me cyprofusi@hotmail.com
 
 <!---
