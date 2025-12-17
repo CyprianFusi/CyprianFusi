@@ -2,6 +2,7 @@
 - 👀 I’m a Data Scientist, Machine Learning engineer and AI Engineer
 - 🌱 I hold 2 master degrees in Electrical Engineering and Data Science and AI
 - 💞️ I've started my own business Binati AInalytics (https://binati-ai.com/)
+- LinkedIn: https://www.linkedin.com/in/cyprian-fusi-76b24883/
 - 📫 How to reach me cyprian.fusi@gmail.com, info@binati-ai.com
 
 <!---
